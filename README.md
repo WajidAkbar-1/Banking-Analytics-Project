@@ -1,4 +1,4 @@
-# 🏦 Banking Analytics Dashboard
+<img width="1314" height="738" alt="image" src="https://github.com/user-attachments/assets/138c0b93-791d-4ec2-9792-0756f686844f" /># 🏦 Banking Analytics Dashboard
 
 ## 📌 Project Overview
 
@@ -215,7 +215,12 @@ Banking-Analytics-Dashboard/
 
 ## 📸 Dashboard Preview
 
-*comming soon*
+<img width="1730" height="906" alt="Dashboard" src="https://github.com/user-attachments/assets/3d9db45d-3adc-4c53-925c-301c10d40a1e" />
+<img width="1314" height="737" alt="Deposit   Withdrawal Analysis" src="https://github.com/user-attachments/assets/f7b34b77-6191-455e-99a5-8bb1c3ecf9ca" />
+<img width="1314" height="738" alt="Customer   Branch Analytics" src="https://github.com/user-attachments/assets/938a6bdb-8ec6-4d86-847a-aa4fa66f3e89" />
+<img width="1193" height="674" alt="Executive Banking Overview" src="https://github.com/user-attachments/assets/df9dbf93-cb03-4fa2-b002-21965db6e93d" />
+
+
 
 ---
 
